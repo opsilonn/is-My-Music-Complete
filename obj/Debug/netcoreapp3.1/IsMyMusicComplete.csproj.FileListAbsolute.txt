@@ -1,0 +1,10 @@
+C:\Users\Hugues\Desktop\IsMyMusicComplete\bin\Debug\netcoreapp3.1\IsMyMusicComplete.exe
+C:\Users\Hugues\Desktop\IsMyMusicComplete\bin\Debug\netcoreapp3.1\IsMyMusicComplete.deps.json
+C:\Users\Hugues\Desktop\IsMyMusicComplete\bin\Debug\netcoreapp3.1\IsMyMusicComplete.runtimeconfig.json
+C:\Users\Hugues\Desktop\IsMyMusicComplete\bin\Debug\netcoreapp3.1\IsMyMusicComplete.runtimeconfig.dev.json
+C:\Users\Hugues\Desktop\IsMyMusicComplete\bin\Debug\netcoreapp3.1\IsMyMusicComplete.dll
+C:\Users\Hugues\Desktop\IsMyMusicComplete\bin\Debug\netcoreapp3.1\IsMyMusicComplete.pdb
+C:\Users\Hugues\Desktop\IsMyMusicComplete\obj\Debug\netcoreapp3.1\IsMyMusicComplete.AssemblyInfoInputs.cache
+C:\Users\Hugues\Desktop\IsMyMusicComplete\obj\Debug\netcoreapp3.1\IsMyMusicComplete.AssemblyInfo.cs
+C:\Users\Hugues\Desktop\IsMyMusicComplete\obj\Debug\netcoreapp3.1\IsMyMusicComplete.dll
+C:\Users\Hugues\Desktop\IsMyMusicComplete\obj\Debug\netcoreapp3.1\IsMyMusicComplete.pdb
