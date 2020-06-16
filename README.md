@@ -20,7 +20,12 @@ You have to change it here :
 
 ## How to run it
 Simply open the project in Visual Studio and run it :)
-Or if you have .NET (core) installed, enter $ dotnet run in the console at the root of the project's folder.
+Or if you have .NET (core) installed, enter *$ dotnet run* in the console at the root of the project's folder.
+
+Depending on the action you perform, a text file containing the according logs will appear in the source folder. 
+
+ENJOY !!
+(well, I hope you do)
 
 
 ## It does not f@cking work
