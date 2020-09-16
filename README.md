@@ -61,7 +61,9 @@ The program supposes that your music is stored as the following :
   ----song B-3-b
   ----song B-3-c
  ```
- 
+If you don't have such a structure, well... it won't work well.
+
+That or the file's names do not begin by numbers.. To keep things short, the file's names are really, REALLY important to this code. 
  
 ## Authors
 
